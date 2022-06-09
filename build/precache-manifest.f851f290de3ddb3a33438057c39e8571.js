@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9846c057768ea8512f422259d248c711",
+    "revision": "6fe6f5af27b962f02dd0b398661fad92",
     "url": "./index.html"
   },
   {
-    "revision": "91c691bcfde36f8c587a",
+    "revision": "ce3708c3a097ba259085",
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "e2cda86e019520cadd8c",
+    "revision": "27e5a2465d221dfcd72c",
     "url": "./static/css/main.11c5c8b5.chunk.css"
   },
   {
-    "revision": "91c691bcfde36f8c587a",
-    "url": "./static/js/2.acc5c9b8.chunk.js"
+    "revision": "ce3708c3a097ba259085",
+    "url": "./static/js/2.7a9e7192.chunk.js"
   },
   {
-    "revision": "e2cda86e019520cadd8c",
-    "url": "./static/js/main.850d2600.chunk.js"
+    "revision": "27e5a2465d221dfcd72c",
+    "url": "./static/js/main.2b93a5de.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -468,6 +468,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Анатолий Кот.d929e212.png"
   },
   {
+    "revision": "89f93e13a4fe5ef81ce42414cdba1324",
+    "url": "./static/media/Анджела Лэнсбери.89f93e13.png"
+  },
+  {
     "revision": "34b575095a6a19216a83948eeab28bc7",
     "url": "./static/media/Анджелина Джоли.34b57509.png"
   },
@@ -494,10 +498,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "eee9b7351de2188c81a85122c7fcfedd",
     "url": "./static/media/Андрей Панин.eee9b735.png"
-  },
-  {
-    "revision": "89f93e13a4fe5ef81ce42414cdba1324",
-    "url": "./static/media/Анжела Лэнсбери.89f93e13.png"
   },
   {
     "revision": "c28f6931756efd1f0dc4660d68cbdc9b",
@@ -1022,6 +1022,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a2e92eb49dbfcd919a18df8542ff6cf2",
     "url": "./static/media/Данила Козловский.a2e92eb4.png"
+  },
+  {
+    "revision": "31e54d82a9e7df16a6c675e5df5f6c13",
+    "url": "./static/media/Даниэл Бернхардт.31e54d82.png"
   },
   {
     "revision": "ed3b1d1c87fd5faa4e120f926174e5b4",
@@ -1690,10 +1694,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "353caddbcf91c30ce71e34a5257965ff",
     "url": "./static/media/Дэни Бун.353caddb.png"
-  },
-  {
-    "revision": "31e54d82a9e7df16a6c675e5df5f6c13",
-    "url": "./static/media/Дэниэл Бернхард.31e54d82.png"
   },
   {
     "revision": "81cdd0c5f7e8dfc3b8701d4ae4c57533",
@@ -3673,7 +3673,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6837fb92291da96b5cf50934d380c32e",
-    "url": "./static/media/Снупп Догг.6837fb92.png"
+    "url": "./static/media/Снуп Догг.6837fb92.png"
   },
   {
     "revision": "1a0959b0984e0abd69d89e783172b9fa",
