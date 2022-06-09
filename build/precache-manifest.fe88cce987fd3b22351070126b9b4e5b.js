@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6fe6f5af27b962f02dd0b398661fad92",
+    "revision": "9f62830936cd3572d71d131a6ef2a442",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "27e5a2465d221dfcd72c",
+    "revision": "263ee506aa7229e6a187",
     "url": "./static/css/main.11c5c8b5.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.7a9e7192.chunk.js"
   },
   {
-    "revision": "27e5a2465d221dfcd72c",
-    "url": "./static/js/main.2b93a5de.chunk.js"
+    "revision": "263ee506aa7229e6a187",
+    "url": "./static/js/main.285d9439.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -3109,7 +3109,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "00249adef99d94e9e22bc9dbe918e69f",
-    "url": "./static/media/Ольга Кузьмина,.00249ade.png"
+    "url": "./static/media/Ольга Кузьмина.00249ade.png"
   },
   {
     "revision": "668fc0e753db245f8b54e9486f98242f",
