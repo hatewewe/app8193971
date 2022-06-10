@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "20a785ec6ee201758bb05537f7dd85b3",
+    "revision": "5bb672db8bbfe3b41d3b2c8e59950dfb",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "721b19b4b174a820223d",
+    "revision": "4207ac95d0b7f54dbf48",
     "url": "./static/css/main.2d1158bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.6015e865.chunk.js"
   },
   {
-    "revision": "721b19b4b174a820223d",
-    "url": "./static/js/main.1b6b78e3.chunk.js"
+    "revision": "4207ac95d0b7f54dbf48",
+    "url": "./static/js/main.2849480b.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -514,6 +514,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8c401608b9307df0a583eddf2bc39058",
     "url": "./static/media/Анна Пэкуин,.8c401608.png"
+  },
+  {
+    "revision": "8c401608b9307df0a583eddf2bc39058",
+    "url": "./static/media/Анна Пэкуин.8c401608.png"
   },
   {
     "revision": "014fab1de87e7f854e426f156ff353de",
@@ -1240,6 +1244,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Джейсон Стэйтем,.679dc233.png"
   },
   {
+    "revision": "679dc233de35790e74373467bf94b6e1",
+    "url": "./static/media/Джейсон Стэйтем.679dc233.png"
+  },
+  {
     "revision": "1656203ad954644f255be2a8696fa869",
     "url": "./static/media/Джейсон Флеминг.1656203a.png"
   },
@@ -1696,16 +1704,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Дэни Бун.353caddb.png"
   },
   {
+    "revision": "788a11c1e29afcfb94f4df82e1b89951",
+    "url": "./static/media/Дэниел Рэдклифф.788a11c1.png"
+  },
+  {
     "revision": "81cdd0c5f7e8dfc3b8701d4ae4c57533",
     "url": "./static/media/Дэниэл Дэй-Льюис.81cdd0c5.png"
   },
   {
     "revision": "858416bc13b7ea1db1122e041121c522",
     "url": "./static/media/Дэниэл Крэйг.858416bc.png"
-  },
-  {
-    "revision": "788a11c1e29afcfb94f4df82e1b89951",
-    "url": "./static/media/Дэниэл Рэдклифф.788a11c1.png"
   },
   {
     "revision": "8a70365444ae7ab086b7f1a6600563f5",
@@ -2733,7 +2741,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "52a3739477d8e376b733d6733850a54e",
-    "url": "./static/media/Марлон Уайанс.52a37394.png"
+    "url": "./static/media/Марлон Уэйанс.52a37394.png"
   },
   {
     "revision": "fc930f83618a38726c8dbfe0cf37c424",
@@ -3501,7 +3509,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "b095744e701c0328330b662f0782d279",
-    "url": "./static/media/Рэйчел Майнер,.b095744e.png"
+    "url": "./static/media/Рэйчел Майнер.b095744e.png"
   },
   {
     "revision": "b8c7979b4e16cbbdaf0eefebc1eed532",
