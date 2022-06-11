@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cfd2a1ff08db0b1424ed1e5a885efc54",
+    "revision": "a0647baf3b1977b08bfecb01eba23bb4",
     "url": "./index.html"
   },
   {
-    "revision": "40ab811b476c6495d55b",
+    "revision": "aa870557ab336815435d",
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "df38804c7d009b487fae",
+    "revision": "ad8d3b0e66df44a734de",
     "url": "./static/css/main.2d1158bf.chunk.css"
   },
   {
-    "revision": "40ab811b476c6495d55b",
-    "url": "./static/js/2.6015e865.chunk.js"
+    "revision": "aa870557ab336815435d",
+    "url": "./static/js/2.4597a131.chunk.js"
   },
   {
-    "revision": "df38804c7d009b487fae",
-    "url": "./static/js/main.91260c20.chunk.js"
+    "revision": "ad8d3b0e66df44a734de",
+    "url": "./static/js/main.652f3352.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -1446,6 +1446,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "9134e8db01529a44372a368884c9c0a6",
     "url": "./static/media/Джозеф Файнс.9134e8db.png"
+  },
+  {
+    "revision": "ce98aa7362a83c9e90781d4599f3e982",
+    "url": "./static/media/Джои Бэти.ce98aa73.png"
   },
   {
     "revision": "5d7613d92488f793c38b5e56985935bd",
