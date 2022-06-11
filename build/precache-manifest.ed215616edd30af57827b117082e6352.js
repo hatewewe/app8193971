@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5bb672db8bbfe3b41d3b2c8e59950dfb",
+    "revision": "cfd2a1ff08db0b1424ed1e5a885efc54",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "4207ac95d0b7f54dbf48",
+    "revision": "df38804c7d009b487fae",
     "url": "./static/css/main.2d1158bf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.6015e865.chunk.js"
   },
   {
-    "revision": "4207ac95d0b7f54dbf48",
-    "url": "./static/js/main.2849480b.chunk.js"
+    "revision": "df38804c7d009b487fae",
+    "url": "./static/js/main.91260c20.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -913,7 +913,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9994a74e2a5a7d20392fe080d157718e",
-    "url": "./static/media/Габриель Анвар.9994a74e.png"
+    "url": "./static/media/Габриэль Анвар.9994a74e.png"
   },
   {
     "revision": "51789b9c0d07769d6cf1f5d120863259",
@@ -1161,7 +1161,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "1f57b15673342986a60d7bedab2744c9",
-    "url": "./static/media/Джейк Джилленхолл.1f57b156.png"
+    "url": "./static/media/Джейк Джилленхол.1f57b156.png"
   },
   {
     "revision": "b67e63517f7103c5a3f864f8b0023bcc",
@@ -1265,7 +1265,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "348c0fc12f75dbeadc203729dc40f107",
-    "url": "./static/media/Джек О'Коннел.348c0fc1.png"
+    "url": "./static/media/Джек О’Коннелл.348c0fc1.png"
   },
   {
     "revision": "1b3c63e01d3381d2f3234d6c18ad568b",
@@ -2881,7 +2881,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8e12ede15ffa0acfacdc51a9aa307e8b",
-    "url": "./static/media/Моника Белуччи.8e12ede1.png"
+    "url": "./static/media/Моника Беллуччи.8e12ede1.png"
   },
   {
     "revision": "d5ab36cebf4cb2d860c0afc617d05d6a",
@@ -3017,7 +3017,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3fd008e77d86e17143292ec6f8d0086c",
-    "url": "./static/media/Ник Робинсо.3fd008e7.png"
+    "url": "./static/media/Ник Робинсон.3fd008e7.png"
   },
   {
     "revision": "a4e0d156b5a7db1636faf4a3474844a9",
@@ -4169,7 +4169,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "4b4fa2f135f177d74ba2643af4933aca",
-    "url": "./static/media/Хейли Стейнфилд.4b4fa2f1.png"
+    "url": "./static/media/Хейли Стайнфелд.4b4fa2f1.png"
   },
   {
     "revision": "b97be7f7f8117326ec6dd15effcdf713",
@@ -4277,11 +4277,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3485d3466a908b8f1a82ecffa432d4ea",
-    "url": "./static/media/Чи Чхан-ук.3485d346.png"
+    "url": "./static/media/Чжи Чан Ук.3485d346.png"
   },
   {
     "revision": "aea5a790895fa0ed644251521f6b3ce7",
-    "url": "./static/media/Чиветель Эджиофор.aea5a790.png"
+    "url": "./static/media/Чиветел Эджиофор.aea5a790.png"
   },
   {
     "revision": "8283fa9648ab1d7caa80fccc7f337b2a",
@@ -4384,12 +4384,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Эдвард Нортон.81371693.png"
   },
   {
-    "revision": "484e9b39bb7a700bf69ba4fb957cc62a",
-    "url": "./static/media/Эдриан Броуди.484e9b39.png"
-  },
-  {
     "revision": "bfe899e2997faa6eeaa1d5f291468daa",
     "url": "./static/media/Эдрианн Палики.bfe899e2.png"
+  },
+  {
+    "revision": "484e9b39bb7a700bf69ba4fb957cc62a",
+    "url": "./static/media/Эдриен Броуди.484e9b39.png"
   },
   {
     "revision": "77330b3c87efe40fe69b7c921ce75df3",
