@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a0647baf3b1977b08bfecb01eba23bb4",
+    "revision": "6f9d90524f7773844966efa7e1621a6d",
     "url": "./index.html"
   },
   {
-    "revision": "aa870557ab336815435d",
+    "revision": "652d7b568a1f904a5bd1",
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "ad8d3b0e66df44a734de",
+    "revision": "4d1edf1fd0f3914627ec",
     "url": "./static/css/main.2d1158bf.chunk.css"
   },
   {
-    "revision": "aa870557ab336815435d",
-    "url": "./static/js/2.4597a131.chunk.js"
+    "revision": "652d7b568a1f904a5bd1",
+    "url": "./static/js/2.326338be.chunk.js"
   },
   {
-    "revision": "ad8d3b0e66df44a734de",
-    "url": "./static/js/main.652f3352.chunk.js"
+    "revision": "4d1edf1fd0f3914627ec",
+    "url": "./static/js/main.0a93f2ea.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -433,7 +433,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "78747efe844a46648dee8a29dd24df42",
-    "url": "./static/media/Аманда Сайфред.78747efe.png"
+    "url": "./static/media/Аманда Сейфрид.78747efe.png"
   },
   {
     "revision": "5205055ced7a58f0de40fa65312fd2b0",
@@ -637,7 +637,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "d98c4c78c607503c573fe577bfdf73d4",
-    "url": "./static/media/Бен Форстер.d98c4c78.png"
+    "url": "./static/media/Бен Фостер.d98c4c78.png"
   },
   {
     "revision": "b5f479748f4c5c3e36fd78bc1b88f927",
@@ -717,7 +717,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "6e067471fed1d862e4c67b1a80745fee",
-    "url": "./static/media/Бриджет Мойнэхэн.6e067471.png"
+    "url": "./static/media/Бриджит Мойнахан.6e067471.png"
   },
   {
     "revision": "e13be4fd2de0cb5f6c936dd3e7fed8c8",
@@ -1120,6 +1120,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Джай Кортни.d62442e9.png"
   },
   {
+    "revision": "89ba5017d6361019efa0b83d1444781a",
+    "url": "./static/media/Джанни Версаче.89ba5017.png"
+  },
+  {
     "revision": "e9e40e1626133cbf5c318ea5e1b42467",
     "url": "./static/media/Джаред Лето.e9e40e16.png"
   },
@@ -1424,10 +1428,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Джиннифер Гудвин.fb8f1d78.png"
   },
   {
-    "revision": "89ba5017d6361019efa0b83d1444781a",
-    "url": "./static/media/Джованни Мария Версачи.89ba5017.png"
-  },
-  {
     "revision": "29e65d7012a0e7b195e47442456a198c",
     "url": "./static/media/Джованни Рибизи.29e65d70.png"
   },
@@ -1493,7 +1493,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "053d40f06314bdcbcada23d71f0caed7",
-    "url": "./static/media/Джон Тёртлтауб.053d40f0.png"
+    "url": "./static/media/Джон Тёртeлтауб.053d40f0.png"
   },
   {
     "revision": "99cd655c531b83dff489ae29289fb971",
@@ -1505,7 +1505,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "355e8b704486bd26d67c5c5fa185a66c",
-    "url": "./static/media/Джонатан Риз Майерс.355e8b70.png"
+    "url": "./static/media/Джонатан Рис Майерс.355e8b70.png"
   },
   {
     "revision": "45bf31bc2e9b8664e714f1fb419e0418",
@@ -2105,7 +2105,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "9a122cb34a562a8e4edf725d9db662bf",
-    "url": "./static/media/Ким Кардашьян Уэст.9a122cb3.png"
+    "url": "./static/media/Ким Кардашьян Ноэль.9a122cb3.png"
   },
   {
     "revision": "c6a85c15858cd05b051b5a5dc7ff8ae3",
@@ -2300,8 +2300,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Кэмерон Диаз.dabc0fac.png"
   },
   {
-    "revision": "1d9b133f0381fa6752eaa1902056917a",
-    "url": "./static/media/Кэри Маллиган.1d9b133f.png"
+    "revision": "605bde6ed2fdf9c4ab5c33777e880464",
+    "url": "./static/media/Кэри Маллиган.605bde6e.png"
   },
   {
     "revision": "155d5a19b1b487e3add819bd3d65ebd2",
@@ -2553,7 +2553,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "398ac05f5c96d480b45351968a748cc9",
-    "url": "./static/media/Люк Хемсфорт.398ac05f.png"
+    "url": "./static/media/Люк Хемсворт.398ac05f.png"
   },
   {
     "revision": "48fa9ed9b7d23a5ac67b352fc43c7eb1",
@@ -2845,7 +2845,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "ed8546bcc9b7487977ae7daa4ccad5ee",
-    "url": "./static/media/Михалина Ольшанска.ed8546bc.png"
+    "url": "./static/media/Михалина Ольшанская.ed8546bc.png"
   },
   {
     "revision": "5c07cf8e01f5d676907f37f577097aed",
@@ -2942,6 +2942,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "24f37166fd982767ba5de8bed638dca6",
     "url": "./static/media/Мэтт ЛеБлан.24f37166.png"
+  },
+  {
+    "revision": "24f37166fd982767ba5de8bed638dca6",
+    "url": "./static/media/Мэтт Леблан.24f37166.png"
   },
   {
     "revision": "c9bf84da747b3bd567924820b3319aa1",
@@ -3669,7 +3673,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "3de0d61d69c950ba7856c7fa4ebe4a35",
-    "url": "./static/media/Скарлетт Йохансон.3de0d61d.png"
+    "url": "./static/media/Скарлетт Йоханссон.3de0d61d.png"
   },
   {
     "revision": "61dfa554de79721c8b53a7d4d23ce13f",
@@ -4153,7 +4157,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "cc90b40ce188b22df02eb139daf74480",
-    "url": "./static/media/Харви Хейтель.cc90b40c.png"
+    "url": "./static/media/Харви Кейтель.cc90b40c.png"
   },
   {
     "revision": "d846b5d521166a70ba6b5be511251bba",
@@ -4289,7 +4293,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "8283fa9648ab1d7caa80fccc7f337b2a",
-    "url": "./static/media/Чоу Юнь-Фат,.8283fa96.png"
+    "url": "./static/media/Чоу Юнь-Фат.8283fa96.png"
   },
   {
     "revision": "7788a0719f0eebc1c7a22723eb17fb61",
@@ -4297,7 +4301,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "23f72ccf62c5ea4392e2199336b8f735",
-    "url": "./static/media/Шайа ЛаБаф.23f72ccf.png"
+    "url": "./static/media/Шайа Лабаф.23f72ccf.png"
   },
   {
     "revision": "55e17efde16e34d8c51a8a424714c2b0",
@@ -4594,6 +4598,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "77c0977895c660f145875676e7f30338",
     "url": "./static/media/Энни Леннокс.77c09778.png"
+  },
+  {
+    "revision": "189eb1fce28344fde801aa650d9cd2f1",
+    "url": "./static/media/Энтони Роббинс.189eb1fc.png"
   },
   {
     "revision": "e9cb2e53e96021a340756d0924044b1f",
