@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6f9d90524f7773844966efa7e1621a6d",
+    "revision": "a7afa45055d253c7be13003aafd2aa50",
     "url": "./index.html"
   },
   {
-    "revision": "652d7b568a1f904a5bd1",
+    "revision": "608a27ba4f369eecd4bb",
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "4d1edf1fd0f3914627ec",
-    "url": "./static/css/main.2d1158bf.chunk.css"
+    "revision": "64d11e8a473258bb9199",
+    "url": "./static/css/main.cdb5c839.chunk.css"
   },
   {
-    "revision": "652d7b568a1f904a5bd1",
-    "url": "./static/js/2.326338be.chunk.js"
+    "revision": "608a27ba4f369eecd4bb",
+    "url": "./static/js/2.656f052f.chunk.js"
   },
   {
-    "revision": "4d1edf1fd0f3914627ec",
-    "url": "./static/js/main.0a93f2ea.chunk.js"
+    "revision": "64d11e8a473258bb9199",
+    "url": "./static/js/main.bd84d3bb.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -166,6 +166,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "8374b6cd8391ba9ae80f3c9bd468d007",
     "url": "./static/media/Story.8374b6cd.png"
+  },
+  {
+    "revision": "eece572f935e91d71b3f30d14b90722d",
+    "url": "./static/media/Story_1.eece572f.png"
   },
   {
     "revision": "c7c4799ed1182d24a48397cf98074b7f",
@@ -3112,8 +3116,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/media/Оливия Тейлор Дадли.188c437a.png"
   },
   {
-    "revision": "fb58612dfa6874a3199d1a6dd8fa2db2",
-    "url": "./static/media/Оливия Уайлд.fb58612d.png"
+    "revision": "fff067a48da378cecbdb5dbf62074cf2",
+    "url": "./static/media/Оливия Уайлд.fff067a4.png"
   },
   {
     "revision": "eb2aac2af915144b43a8d5a15148d165",
