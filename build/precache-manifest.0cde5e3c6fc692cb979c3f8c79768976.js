@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7afa45055d253c7be13003aafd2aa50",
+    "revision": "cb31b8fb1e0dd3d401e931bf84f7e519",
     "url": "./index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/css/2.8826781a.chunk.css"
   },
   {
-    "revision": "64d11e8a473258bb9199",
+    "revision": "ee1b9279f73b752be19e",
     "url": "./static/css/main.cdb5c839.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "./static/js/2.656f052f.chunk.js"
   },
   {
-    "revision": "64d11e8a473258bb9199",
-    "url": "./static/js/main.bd84d3bb.chunk.js"
+    "revision": "ee1b9279f73b752be19e",
+    "url": "./static/js/main.d588c594.chunk.js"
   },
   {
     "revision": "1b437403f16bd71edadb",
@@ -2946,10 +2946,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "24f37166fd982767ba5de8bed638dca6",
     "url": "./static/media/Мэтт ЛеБлан.24f37166.png"
-  },
-  {
-    "revision": "24f37166fd982767ba5de8bed638dca6",
-    "url": "./static/media/Мэтт Леблан.24f37166.png"
   },
   {
     "revision": "c9bf84da747b3bd567924820b3319aa1",
